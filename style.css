@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+table{
+  width: 300px; 
+  height: 300px;
+  border-collapse: collapse;
+  
+}
+
+th,td{ 
+   
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    background-color:rgba(128, 128, 128, 0.384);
+}
+
+.color{
+    background-color: chartreuse;
+}
+
+.color:hover{
+    background-color: darkcyan;
+    color: aliceblue;
+}
+
+a{
+    background-color: chartreuse;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+a:hover{
+    background-color: darkcyan;
+    color: aliceblue;
+}
